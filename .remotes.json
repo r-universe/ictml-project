@@ -24,10 +24,22 @@
     "from": "tlverse"
   },
   {
+    "package": "haldensify",
+    "url": "https://github.com/nhejazi/haldensify",
+    "via": ["tmle3mediate", "sl3"],
+    "from": "tmle3mediate"
+  },
+  {
     "package": "longbowtools",
     "url": "https://github.com/tlverse/longbowtools",
     "via": ["tlverse"],
     "from": "tlverse"
+  },
+  {
+    "package": "medshift",
+    "url": "https://github.com/nhejazi/medshift",
+    "via": ["tmle3mediate"],
+    "from": "tmle3mediate"
   },
   {
     "package": "origami",
@@ -49,10 +61,22 @@
     "from": "tlverse"
   },
   {
+    "package": "sl3",
+    "url": "https://github.com/tlverse/sl3",
+    "via": ["tmle3mediate"],
+    "from": "tmle3mediate"
+  },
+  {
     "package": "tmle3",
     "url": "https://github.com/tlverse/tmle3",
     "via": ["tlverse"],
     "from": "tlverse"
+  },
+  {
+    "package": "tmle3",
+    "url": "https://github.com/tlverse/tmle3",
+    "via": ["tmle3mediate"],
+    "from": "tmle3mediate"
   },
   {
     "package": "tmle3mopttx",
