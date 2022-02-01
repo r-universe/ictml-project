@@ -32,6 +32,12 @@
   {
     "package": "haldensify",
     "url": "https://github.com/nhejazi/haldensify",
+    "via": ["medshift", "sl3"],
+    "from": "medshift"
+  },
+  {
+    "package": "haldensify",
+    "url": "https://github.com/nhejazi/haldensify",
     "via": ["sl3"],
     "from": "sl3"
   },
@@ -100,6 +106,13 @@
   {
     "package": "sl3",
     "url": "https://github.com/tlverse/sl3",
+    "via": ["medshift"],
+    "branch": "master",
+    "from": "medshift"
+  },
+  {
+    "package": "sl3",
+    "url": "https://github.com/tlverse/sl3",
     "via": ["tlverse"],
     "from": "tlverse"
   },
@@ -120,6 +133,13 @@
     "url": "https://github.com/tlverse/sl3",
     "via": ["tmle3shift"],
     "from": "tmle3shift"
+  },
+  {
+    "package": "tmle3",
+    "url": "https://github.com/tlverse/tmle3",
+    "via": ["medshift"],
+    "branch": "master",
+    "from": "medshift"
   },
   {
     "package": "tmle3",
