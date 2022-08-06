@@ -6,6 +6,12 @@
     "from": "tlverse"
   },
   {
+    "package": "delayed",
+    "url": "https://github.com/tlverse/delayed",
+    "via": ["tmle3mopttx"],
+    "from": "tmle3mopttx"
+  },
+  {
     "package": "hal9001",
     "url": "https://github.com/tlverse/hal9001",
     "via": ["tlverse"],
@@ -30,6 +36,12 @@
     "from": "tmle3mediate"
   },
   {
+    "package": "haldensify",
+    "url": "https://github.com/nhejazi/haldensify",
+    "via": ["tmle3mopttx", "sl3"],
+    "from": "tmle3mopttx"
+  },
+  {
     "package": "longbowtools",
     "url": "https://github.com/tlverse/longbowtools",
     "via": ["tlverse"],
@@ -46,6 +58,12 @@
     "url": "https://github.com/tlverse/origami",
     "via": ["tlverse", "tmle3mopttx"],
     "from": "tlverse"
+  },
+  {
+    "package": "origami",
+    "url": "https://github.com/tlverse/origami",
+    "via": ["tmle3mopttx"],
+    "from": "tmle3mopttx"
   },
   {
     "package": "skimr",
@@ -67,6 +85,12 @@
     "from": "tmle3mediate"
   },
   {
+    "package": "sl3",
+    "url": "https://github.com/tlverse/sl3",
+    "via": ["tmle3mopttx"],
+    "from": "tmle3mopttx"
+  },
+  {
     "package": "tmle3",
     "url": "https://github.com/tlverse/tmle3",
     "via": ["tlverse"],
@@ -79,6 +103,12 @@
     "from": "tmle3mediate"
   },
   {
+    "package": "tmle3",
+    "url": "https://github.com/tlverse/tmle3",
+    "via": ["tmle3mopttx"],
+    "from": "tmle3mopttx"
+  },
+  {
     "package": "tmle3mopttx",
     "url": "https://github.com/tlverse/tmle3mopttx",
     "via": ["tlverse"],
@@ -89,5 +119,11 @@
     "url": "https://github.com/tlverse/tmle3shift",
     "via": ["tlverse", "tmle3mopttx"],
     "from": "tlverse"
+  },
+  {
+    "package": "tmle3shift",
+    "url": "https://github.com/tlverse/tmle3shift",
+    "via": ["tmle3mopttx"],
+    "from": "tmle3mopttx"
   }
 ]
