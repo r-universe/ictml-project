@@ -14,8 +14,20 @@
   {
     "package": "hal9001",
     "url": "https://github.com/tlverse/hal9001",
+    "via": ["medoutcon"],
+    "from": "medoutcon"
+  },
+  {
+    "package": "hal9001",
+    "url": "https://github.com/tlverse/hal9001",
     "via": ["tlverse"],
     "from": "tlverse"
+  },
+  {
+    "package": "haldensify",
+    "url": "https://github.com/nhejazi/haldensify",
+    "via": ["medoutcon", "sl3"],
+    "from": "medoutcon"
   },
   {
     "package": "haldensify",
@@ -77,6 +89,13 @@
     "via": ["tlverse", "longbowtools"],
     "branch": "vector_types",
     "from": "tlverse"
+  },
+  {
+    "package": "sl3",
+    "url": "https://github.com/tlverse/sl3",
+    "via": ["medoutcon"],
+    "branch": "devel",
+    "from": "medoutcon"
   },
   {
     "package": "sl3",
