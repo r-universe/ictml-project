@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/ictml-project/ictml-project.r-universe.dev
 	branch = HEAD
+[submodule "haldensify"]
+	path = haldensify
+	url = https://github.com/nhejazi/haldensify
+	registered = false
 [submodule "medoutcon"]
 	path = medoutcon
 	url = https://github.com/nhejazi/medoutcon
