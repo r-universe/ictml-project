@@ -1,5 +1,34 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/ictml-project/ictml-project.r-universe.dev
 	branch = HEAD
+[submodule "medoutcon"]
+	path = medoutcon
+	url = https://github.com/nhejazi/medoutcon
+[submodule "medshift"]
+	path = medshift
+	url = https://github.com/nhejazi/medshift
+[submodule "rtemis"]
+	path = rtemis
+	url = https://github.com/egenn/rtemis
+[submodule "rtemisbio"]
+	path = rtemisbio
+	url = https://github.com/egenn/rtemisbio
+[submodule "sl3"]
+	path = sl3
+	url = https://github.com/tlverse/sl3
+[submodule "tlverse"]
+	path = tlverse
+	url = https://github.com/tlverse/tlverse
+[submodule "tml3"]
+	path = tml3
+	url = https://github.com/tlverse/tml3
+[submodule "tmle3mediate"]
+	path = tmle3mediate
+	url = https://github.com/tlverse/tmle3mediate
+[submodule "tmle3mopttx"]
+	path = tmle3mopttx
+	url = https://github.com/tlverse/tmle3mopttx
+[submodule "tmle3shift"]
+	path = tmle3shift
+	url = https://github.com/tlverse/tmle3shift
