@@ -48,14 +48,9 @@
 [submodule "tlverse"]
 	path = tlverse
 	url = https://github.com/tlverse/tlverse
-[submodule "tml3"]
-	path = tml3
-	url = https://github.com/tlverse/tml3
 [submodule "tmle3"]
 	path = tmle3
 	url = https://github.com/tlverse/tmle3
-	branch = master
-	registered = false
 [submodule "tmle3mediate"]
 	path = tmle3mediate
 	url = https://github.com/tlverse/tmle3mediate
