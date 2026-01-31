@@ -2,46 +2,21 @@
 	path = .registry
 	url = https://github.com/ictml-project/ictml-project.r-universe.dev
 	branch = HEAD
-[submodule "delayed"]
-	path = delayed
-	url = https://github.com/tlverse/delayed
-	registered = false
-[submodule "hal9001"]
-	path = hal9001
-	url = https://github.com/tlverse/hal9001
-	registered = false
-[submodule "haldensify"]
-	path = haldensify
-	url = https://github.com/nhejazi/haldensify
-	registered = false
 [submodule "ictml"]
 	path = ictml
 	url = https://github.com/ictml-project/ictml
-[submodule "longbowtools"]
-	path = longbowtools
-	url = https://github.com/tlverse/longbowtools
-	registered = false
 [submodule "medoutcon"]
 	path = medoutcon
 	url = https://github.com/nhejazi/medoutcon
 [submodule "medshift"]
 	path = medshift
 	url = https://github.com/nhejazi/medshift
-[submodule "origami"]
-	path = origami
-	url = https://github.com/tlverse/origami
-	registered = false
 [submodule "rtemis"]
 	path = rtemis
 	url = https://github.com/egenn/rtemis
 [submodule "rtemisbio"]
 	path = rtemisbio
 	url = https://github.com/egenn/rtemisbio
-[submodule "skimr"]
-	path = skimr
-	url = https://github.com/jeremyrcoyle/skimr
-	branch = vector_types
-	registered = false
 [submodule "sl3"]
 	path = sl3
 	url = https://github.com/tlverse/sl3
