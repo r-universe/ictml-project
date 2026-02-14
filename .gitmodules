@@ -13,10 +13,10 @@
 	url = https://github.com/nhejazi/medshift
 [submodule "rtemis"]
 	path = rtemis
-	url = https://github.com/egenn/rtemis
+	url = https://github.com/rtemis-org/rtemis
 [submodule "rtemisbio"]
 	path = rtemisbio
-	url = https://github.com/egenn/rtemisbio
+	url = https://github.com/rtemis-org/rtemis.bio
 [submodule "sl3"]
 	path = sl3
 	url = https://github.com/tlverse/sl3
