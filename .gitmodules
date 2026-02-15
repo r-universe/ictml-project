@@ -14,8 +14,8 @@
 [submodule "rtemis"]
 	path = rtemis
 	url = https://github.com/rtemis-org/rtemis
-[submodule "rtemisbio"]
-	path = rtemisbio
+[submodule "rtemis.bio"]
+	path = rtemis.bio
 	url = https://github.com/rtemis-org/rtemis.bio
 [submodule "sl3"]
 	path = sl3
